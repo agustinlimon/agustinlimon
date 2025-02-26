@@ -7,7 +7,7 @@
 🧑‍💻 &nbsp; I like to explore new technologies and develop software solutions for everyday problems.\
 🤓 &nbsp; I am on track for learning more about Cloud Computing and Cybersecurity.\
 🌱 &nbsp; In my free time, I love doing sports like running or playing tennis to clear my mind.\
-📂 &nbsp; Please have a look at my [My Resume](https://drive.google.com/file/d/11vtS5jyoof9KyrNEtL685iKIh_M9ZQ5d/view?usp=drive_link) for more details about me.\
+📂 &nbsp; Please have a look at my [My Resume](https://drive.google.com/file/d/1Yiww7vNIawNcVD9r8GHdVDEA3YGVb94f/view?usp=sharing) for more details about me.\
 📬 &nbsp; Reach out to me at: agustinlimonta@gmail.com
 
 <br>
