@@ -7,7 +7,7 @@
 🧑‍💻 &nbsp; I like to explore new technologies and develop software solutions for everyday problems.\
 🤓 &nbsp; I am on track for learning more about Cloud Computing and Cybersecurity.\
 🌱 &nbsp; In my free time, I love doing sports like running or playing tennis to clear my mind.\
-📂 &nbsp; Please have a look at my [My Resume](https://drive.google.com/file/d/1Yiww7vNIawNcVD9r8GHdVDEA3YGVb94f/view?usp=sharing) for more details about me.\
+📂 &nbsp; Please have a look at my [My Resume](https://drive.google.com/file/d/12qKbF-wuOsc0irzNgKQeVtaXRS-R5L2a/view?usp=sharing) for more details about me.\
 📬 &nbsp; Reach out to me at: agustinlimonta@gmail.com
 
 <br>
@@ -29,9 +29,3 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-<br>
-<h2><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 40px></picture> Github Stats</h2>
-
-[![](https://github-readme-stats.vercel.app/api?username=agustinlimon&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/agustinlimon)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=agustinlimon&theme=material-palenight)](https://github.com/agustinlimon)
